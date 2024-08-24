@@ -1416,6 +1416,8 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [CodeSonar from GrammaTech](https://codesecure.com/our-products/codesonar/) :copyright: — Advanced, whole program, deep path, static analysis of C, C++, Java and C# with easy-to-understand explanations and code and path visualization.
 
+  [Codety](https://www.codety.io/) :copyright: — Codety provides comprehensive solutions for identifying issues in source code and preventing tech debt, code smells, and vulnerable code from spreading. Codety Scanner detects code issues and notifies developers with detailed code review results (through pull request review comments, etc.). It is embedded with 5,000+ static code analysis rules, supports over 30 languages and IaC tools, and is free to use for public and private repositories. Codety Scanner can also be used with Codety Console(a subscription-based product) for managing engineering teams' code standards and quality.
+
 - [Codiga](https://www.codiga.io) :copyright: — Automated Code Reviews and Technical Debt management platform that supports 12+ languages.
 
 - [Corrode](https://github.com/jameysharp/corrode) :warning: — Semi-automatic translation from C to Rust. Could reveal bugs in the original implementation by showing Rust compiler warnings and errors. Superseded by C2Rust.
